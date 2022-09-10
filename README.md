@@ -1,2 +1,2 @@
 # PedraPapelTesoura
-O jogo Pedra Papel Tesoura usando Windows Forms
+O jogo Pedra Papel Tesoura utilizando Windows Forms
