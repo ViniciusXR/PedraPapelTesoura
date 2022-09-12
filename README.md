@@ -43,30 +43,12 @@ Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso d
 
 Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
 
-## JSON :floppy_disk:
 
-### Usuários: 
-
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
-
-... 
-
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+- [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
-...
-
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
 
 ## Resolvendo Problemas :exclamation:
 
@@ -82,7 +64,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 :memo: Tarefa 3 
 
-## Desenvolvedores/Contribuintes :octocat:
+## Desenvolvedores/Contribuintes
 
 
 
