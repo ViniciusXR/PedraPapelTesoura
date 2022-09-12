@@ -19,14 +19,13 @@
 
 
 ## Descrição do projeto 
+ <p>Um jogo do tipo Pedra Papel Tesoura(Jokenpô) criado utilizando Windows Forms.</p>
+  <p>O usuário seleciona uma opção(Pedra, papel ou tesoura) que é comparado com a opção que é selecionada pelo computador.</p>
+  <p>O resultado é exibido na tela do jogador.</p>
 <img src="https://user-images.githubusercontent.com/101216409/189563105-5df168f8-dc71-4f96-be28-099a36203b54.jpg"/>
 <img src="https://user-images.githubusercontent.com/101216409/189563113-7f6d656e-2faa-4d4d-835a-4bc5b93353f6.jpg"/>
 <img src="https://user-images.githubusercontent.com/101216409/189563117-f4637990-6e26-4d42-ab05-623b7e97fcf2.jpg"/>
-<p align="justify">
-  Um jogo do tipo Pedra Papel Tesoura(Jokenpô) criado utilizando Windows Forms.
-  O usuário seleciona uma opção(Pedra, papel ou tesoura) e o computador também seleciona uma opção.
-  O resultado é exibido na tela do jogador.
-</p>
+ 
 
 ## Pré-requisitos
 
@@ -35,7 +34,7 @@
 
 ## Como rodar a aplicação :arrow_forward:
 
-Basta executar o arquivo PedraPapelTesoura.exe na pasta principal
+Basta executar o arquivo PedraPapelTesoura.exe na pasta principal e selecionar uma das três opções disponíveis.
 
 ## Casos de Uso
 
