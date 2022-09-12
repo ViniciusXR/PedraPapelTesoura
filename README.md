@@ -36,12 +36,6 @@
 
 Basta executar o arquivo PedraPapelTesoura.exe na pasta principal e selecionar uma das três opções disponíveis.
 
-## Casos de Uso
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
 
 
 ## Linguagens, dependencias e libs utilizadas :books:
@@ -49,19 +43,6 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 - [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
-
-## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
 
 ## Desenvolvedores/Contribuintes
 
