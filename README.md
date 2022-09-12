@@ -22,7 +22,7 @@
 
 <p align="justify">
   Um jogo do tipo Pedra Papel Tesoura(Jokenpô) criado utilizando Windows Forms.
-  O usuário seleciona uma opção(Pedra papel ou tesoura) e o computador também seleciona uma opção.
+  O usuário seleciona uma opção(Pedra, papel ou tesoura) e o computador também seleciona uma opção.
   O resultado é exibido na tela do jogador.
 </p>
 
